@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dupontech.online/sitemap.xml
